@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/waheeda654/React/static/css/main.dc4d6ff2.css",
+    "main.js": "/waheeda654/React/static/js/main.b068245d.js",
+    "static/js/592.666c40a6.chunk.js": "/waheeda654/React/static/js/592.666c40a6.chunk.js",
+    "index.html": "/waheeda654/React/index.html",
+    "main.dc4d6ff2.css.map": "/waheeda654/React/static/css/main.dc4d6ff2.css.map",
+    "main.b068245d.js.map": "/waheeda654/React/static/js/main.b068245d.js.map",
+    "592.666c40a6.chunk.js.map": "/waheeda654/React/static/js/592.666c40a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.b068245d.js"
+  ]
+}
